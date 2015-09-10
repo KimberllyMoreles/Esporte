@@ -1,0 +1,42 @@
+.fase1{
+	font-family: arial;
+	background-color: Honeydew;
+	color: DarkSlateGray;
+}
+
+.fase1.futebol{
+	background-color: LightGrey;
+}
+
+.fase1.surf{
+	background-color: LightBlue;
+}
+
+p{
+	text-align: justify;
+	font-size: 12px;
+	margin-left: 5px;
+	margin-top: 10px;
+}
+
+.titulos{
+	text-transform: uppercase;
+	text-align: right;
+}
+
+.titulos.pFutebol{
+	font-size: 30px;
+}
+
+#inter{
+	color: red;
+	font-style: italic;
+}
+
+#gremio{
+	color: blue;
+}
+
+#cbf{
+	color: yellow;
+}
